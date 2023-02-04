@@ -1,4 +1,4 @@
-package com.jeroen.dataorientedprogramming;
+package com.jeroen.dataorientedprogramming.ch1opt;
 
 import org.junit.jupiter.api.Test;
 

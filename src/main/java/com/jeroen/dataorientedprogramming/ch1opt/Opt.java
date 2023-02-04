@@ -1,4 +1,4 @@
-package com.jeroen.dataorientedprogramming;
+package com.jeroen.dataorientedprogramming.ch1opt;
 
 public sealed interface Opt<T> {
     record Some<T>(T value) implements Opt<T> { }
