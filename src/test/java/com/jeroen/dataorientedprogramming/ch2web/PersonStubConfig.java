@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class PersonClientConfig {
+public class PersonStubConfig {
     @Bean
     public PersonStub personStub() {
         return Mockito.mock(PersonStub.class);
